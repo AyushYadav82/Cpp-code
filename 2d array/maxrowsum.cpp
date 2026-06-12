@@ -8,7 +8,7 @@ int maxsum(int mat[][3],int rows,int cols){
         for(int j=0;j<cols;j++){
            rowsum +=mat[i][j];
         }
-          maxrowsum=max(maxrowsum,rowsum);
+          maxrowsum=max(maxrowsum,rowsum);    //call the fn
     }
   return maxrowsum;
     }
