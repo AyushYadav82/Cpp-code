@@ -13,8 +13,6 @@ int main(){
     return 0;
 }
 
-
- //the 
 // output 
 // 1
 // 23
