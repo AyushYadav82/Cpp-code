@@ -14,7 +14,8 @@ int main(){
 }
 
 
- //output 
+ //the 
+// output 
 // 1
 // 23
 // 456
