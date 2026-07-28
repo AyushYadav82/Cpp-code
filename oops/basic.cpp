@@ -27,7 +27,7 @@ class Teacher{
 };
 int main(){
     //objects
-    Teacher t1;
+    Teacher t1;  //constructor called
     t1.name="ayush";
     t1.subjects="maths";
     t1.dept="computer science";
