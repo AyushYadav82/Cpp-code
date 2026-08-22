@@ -70,7 +70,6 @@ class CircularList{
             }
             tail=prev;
             tail->next=head;
-
             temp->next=NULL;
             delete temp;
         }
